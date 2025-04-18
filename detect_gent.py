@@ -1,4 +1,4 @@
-# Secudaim_Test_123
+# detect_agent_start
 from pymodbus.client.sync import ModbusTcpClient
 #from pymodbus.client import ModbusTcpClient
 import time, sys, traceback
